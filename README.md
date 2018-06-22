@@ -13,8 +13,10 @@ pip install pyOpenSSL ndg-httpsclient pyasn1
 tzwhere does not handle timezones over water very well, 
 in those instances the Google API is called. Substitute your own API key.  
 
-I make no authorship claims to the indjango info, but it's really good for google api access info if you are new.
+I make no authorship claims to the indjango info, but it's a really good article for google api access info if you are new.
 http://www.indjango.com/google-api-to-get-timezone-from-lat-long-coordinates-in-python/
+Or more direct link to the google docs
+https://developers.google.com/maps/documentation/timezone/start
 
 # Proper usage:
 cat data.csv | python localizer.py > out.csv
