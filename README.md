@@ -5,7 +5,9 @@ Runs on python 2.7
 
 system setup if there are issues
 pip install sudo pip install pytz
+
 pip install tzwhere
+
 pip install pyOpenSSL ndg-httpsclient pyasn1
 
 # Design notes
